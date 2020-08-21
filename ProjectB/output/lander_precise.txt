@@ -1,0 +1,3393 @@
+Finished running 100000 time steps.
+
+Position: (2.1e+07, 2e+07)m
+Height:   19707931m
+Velocity: (-5.8e+03, 4.4e+02)m/s
+          5839.43m/s
+dt changed to 1E-04 in time step: 41109
+Finished running 100000 time steps.
+
+Position: (-8.3e+06, 6.2e+06)m
+Height:   701952m
+Velocity: (-5.2e+03, -1.1e+04)m/s
+          12508.55m/s
+Finished running 100000 time steps.
+
+Position: (-8.4e+06, 6.1e+06)m
+Height:   675043m
+Velocity: (-5.1e+03, -1.1e+04)m/s
+          12528.17m/s
+Finished running 100000 time steps.
+
+Position: (-8.4e+06, 6e+06)m
+Height:   648664m
+Velocity: (-5e+03, -1.2e+04)m/s
+          12547.48m/s
+Finished running 100000 time steps.
+
+Position: (-8.5e+06, 5.9e+06)m
+Height:   622822m
+Velocity: (-4.9e+03, -1.2e+04)m/s
+          12566.46m/s
+Finished running 100000 time steps.
+
+Position: (-8.5e+06, 5.8e+06)m
+Height:   597523m
+Velocity: (-4.9e+03, -1.2e+04)m/s
+          12585.10m/s
+Finished running 100000 time steps.
+
+Position: (-8.6e+06, 5.7e+06)m
+Height:   572773m
+Velocity: (-4.8e+03, -1.2e+04)m/s
+          12603.41m/s
+Finished running 100000 time steps.
+
+Position: (-8.6e+06, 5.5e+06)m
+Height:   548579m
+Velocity: (-4.7e+03, -1.2e+04)m/s
+          12621.36m/s
+Finished running 100000 time steps.
+
+Position: (-8.7e+06, 5.4e+06)m
+Height:   524946m
+Velocity: (-4.6e+03, -1.2e+04)m/s
+          12638.95m/s
+Finished running 100000 time steps.
+
+Position: (-8.7e+06, 5.3e+06)m
+Height:   501881m
+Velocity: (-4.5e+03, -1.2e+04)m/s
+          12656.18m/s
+Finished running 100000 time steps.
+
+Position: (-8.7e+06, 5.2e+06)m
+Height:   479390m
+Velocity: (-4.5e+03, -1.2e+04)m/s
+          12673.03m/s
+Finished running 100000 time steps.
+
+Position: (-8.8e+06, 5.1e+06)m
+Height:   457478m
+Velocity: (-4.4e+03, -1.2e+04)m/s
+          12689.49m/s
+Finished running 100000 time steps.
+
+Position: (-8.8e+06, 4.9e+06)m
+Height:   436152m
+Velocity: (-4.3e+03, -1.2e+04)m/s
+          12705.56m/s
+Finished running 100000 time steps.
+
+Position: (-8.9e+06, 4.8e+06)m
+Height:   415418m
+Velocity: (-4.2e+03, -1.2e+04)m/s
+          12721.24m/s
+Finished running 100000 time steps.
+
+Position: (-8.9e+06, 4.7e+06)m
+Height:   395280m
+Velocity: (-4.1e+03, -1.2e+04)m/s
+          12736.50m/s
+Finished running 100000 time steps.
+
+Position: (-9e+06, 4.6e+06)m
+Height:   375744m
+Velocity: (-4e+03, -1.2e+04)m/s
+          12751.35m/s
+Finished running 100000 time steps.
+
+Position: (-9e+06, 4.5e+06)m
+Height:   356816m
+Velocity: (-3.9e+03, -1.2e+04)m/s
+          12765.77m/s
+Finished running 100000 time steps.
+
+Position: (-9e+06, 4.3e+06)m
+Height:   338501m
+Velocity: (-3.9e+03, -1.2e+04)m/s
+          12779.77m/s
+Finished running 100000 time steps.
+
+Position: (-9.1e+06, 4.2e+06)m
+Height:   320805m
+Velocity: (-3.8e+03, -1.2e+04)m/s
+          12793.33m/s
+Finished running 100000 time steps.
+
+Position: (-9.1e+06, 4.1e+06)m
+Height:   303731m
+Velocity: (-3.7e+03, -1.2e+04)m/s
+          12806.44m/s
+Finished running 100000 time steps.
+
+Position: (-9.2e+06, 4e+06)m
+Height:   287286m
+Velocity: (-3.6e+03, -1.2e+04)m/s
+          12819.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.2e+06, 3.9e+06)m
+Height:   271473m
+Velocity: (-3.5e+03, -1.2e+04)m/s
+          12831.29m/s
+Finished running 100000 time steps.
+
+Position: (-9.2e+06, 3.7e+06)m
+Height:   256298m
+Velocity: (-3.4e+03, -1.2e+04)m/s
+          12843.02m/s
+Finished running 100000 time steps.
+
+Position: (-9.3e+06, 3.6e+06)m
+Height:   241765m
+Velocity: (-3.3e+03, -1.2e+04)m/s
+          12854.28m/s
+Finished running 100000 time steps.
+
+Position: (-9.3e+06, 3.5e+06)m
+Height:   227878m
+Velocity: (-3.2e+03, -1.2e+04)m/s
+          12865.06m/s
+Finished running 100000 time steps.
+
+Position: (-9.3e+06, 3.4e+06)m
+Height:   214641m
+Velocity: (-3.1e+03, -1.2e+04)m/s
+          12875.36m/s
+Finished running 100000 time steps.
+
+Position: (-9.4e+06, 3.2e+06)m
+Height:   202058m
+Velocity: (-3e+03, -1.3e+04)m/s
+          12885.16m/s
+Finished running 100000 time steps.
+
+Position: (-9.4e+06, 3.1e+06)m
+Height:   190133m
+Velocity: (-2.9e+03, -1.3e+04)m/s
+          12894.47m/s
+Finished running 100000 time steps.
+
+Position: (-9.4e+06, 3e+06)m
+Height:   178869m
+Velocity: (-2.8e+03, -1.3e+04)m/s
+          12903.26m/s
+Finished running 100000 time steps.
+
+Position: (-9.4e+06, 2.9e+06)m
+Height:   168271m
+Velocity: (-2.7e+03, -1.3e+04)m/s
+          12911.48m/s
+Finished running 100000 time steps.
+
+Position: (-9.5e+06, 2.7e+06)m
+Height:   158341m
+Velocity: (-2.6e+03, -1.3e+04)m/s
+          12918.93m/s
+Finished running 100000 time steps.
+
+Position: (-9.5e+06, 2.6e+06)m
+Height:   149083m
+Velocity: (-2.6e+03, -1.3e+04)m/s
+          12924.96m/s
+Finished running 100000 time steps.
+
+Position: (-9.5e+06, 2.5e+06)m
+Height:   140500m
+Velocity: (-2.5e+03, -1.3e+04)m/s
+          12927.44m/s
+Finished running 100000 time steps.
+
+Position: (-9.5e+06, 2.3e+06)m
+Height:   132597m
+Velocity: (-2.4e+03, -1.3e+04)m/s
+          12920.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 2.2e+06)m
+Height:   125381m
+Velocity: (-2.2e+03, -1.3e+04)m/s
+          12888.22m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 2.1e+06)m
+Height:   118864m
+Velocity: (-2.1e+03, -1.3e+04)m/s
+          12796.71m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 2e+06)m
+Height:   113059m
+Velocity: (-2e+03, -1.2e+04)m/s
+          12580.31m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.8e+06)m
+Height:   107976m
+Velocity: (-1.8e+03, -1.2e+04)m/s
+          12139.71m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.7e+06)m
+Height:   103597m
+Velocity: (-1.6e+03, -1.1e+04)m/s
+          11371.05m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.6e+06)m
+Height:   99845m
+Velocity: (-1.4e+03, -1e+04)m/s
+          10233.72m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.5e+06)m
+Height:   96578m
+Velocity: (-1.1e+03, -8.7e+03)m/s
+          8804.05m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.4e+06)m
+Height:   93612m
+Velocity: (-7.9e+02, -7.2e+03)m/s
+          7247.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.4e+06)m
+Height:   90781m
+Velocity: (-5.3e+02, -5.7e+03)m/s
+          5733.24m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.3e+06)m
+Height:   87973m
+Velocity: (-3.2e+02, -4.4e+03)m/s
+          4381.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.3e+06)m
+Height:   85142m
+Velocity: (-1.5e+02, -3.2e+03)m/s
+          3249.38m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.3e+06)m
+Height:   82287m
+Velocity: (-19, -2.4e+03)m/s
+          2351.38m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   79428m
+Velocity: (72, -1.7e+03)m/s
+          1670.83m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   76590m
+Velocity: (1.4e+02, -1.2e+03)m/s
+          1175.29m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   73791m
+Velocity: (1.8e+02, -8.1e+02)m/s
+          826.84m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   71047m
+Velocity: (2e+02, -5.5e+02)m/s
+          589.57m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   68377m
+Velocity: (2.2e+02, -3.7e+02)m/s
+          432.95m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   65814m
+Velocity: (2.2e+02, -2.5e+02)m/s
+          332.10m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   63404m
+Velocity: (2.1e+02, -1.6e+02)m/s
+          266.92m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   61195m
+Velocity: (2e+02, -1e+02)m/s
+          222.56m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   59218m
+Velocity: (1.8e+02, -62)m/s
+          190.08m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   57470m
+Velocity: (1.6e+02, -39)m/s
+          165.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   55926m
+Velocity: (1.4e+02, -27)m/s
+          145.79m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   54548m
+Velocity: (1.3e+02, -20)m/s
+          130.57m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   53306m
+Velocity: (1.2e+02, -16)m/s
+          118.43m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   52173m
+Velocity: (1.1e+02, -14)m/s
+          108.54m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   51130m
+Velocity: (1e+02, -13)m/s
+          100.30m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   50162m
+Velocity: (93, -12)m/s
+          93.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   49260m
+Velocity: (87, -11)m/s
+          87.30m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   48414m
+Velocity: (81, -10)m/s
+          82.05m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   47617m
+Velocity: (77, -9.6)m/s
+          77.43m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   46864m
+Velocity: (73, -9.1)m/s
+          73.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   46149m
+Velocity: (69, -8.6)m/s
+          69.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   45470m
+Velocity: (66, -8.2)m/s
+          66.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   44822m
+Velocity: (63, -7.8)m/s
+          63.31m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   44203m
+Velocity: (60, -7.5)m/s
+          60.57m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   43610m
+Velocity: (58, -7.2)m/s
+          58.07m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   43041m
+Velocity: (55, -6.9)m/s
+          55.76m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   42494m
+Velocity: (53, -6.6)m/s
+          53.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   41967m
+Velocity: (51, -6.4)m/s
+          51.68m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   41460m
+Velocity: (49, -6.2)m/s
+          49.85m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   40970m
+Velocity: (48, -6)m/s
+          48.16m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   40496m
+Velocity: (46, -5.8)m/s
+          46.57m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   40038m
+Velocity: (45, -5.6)m/s
+          45.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   39594m
+Velocity: (43, -5.4)m/s
+          43.70m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   39164m
+Velocity: (42, -5.2)m/s
+          42.40m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   38746m
+Velocity: (41, -5.1)m/s
+          41.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   38340m
+Velocity: (40, -5)m/s
+          40.01m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   37945m
+Velocity: (39, -4.8)m/s
+          38.92m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   37562m
+Velocity: (38, -4.7)m/s
+          37.88m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   37188m
+Velocity: (37, -4.6)m/s
+          36.90m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   36823m
+Velocity: (36, -4.5)m/s
+          35.97m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   36468m
+Velocity: (35, -4.3)m/s
+          35.08m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   36122m
+Velocity: (34, -4.2)m/s
+          34.24m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   35783m
+Velocity: (33, -4.1)m/s
+          33.44m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   35453m
+Velocity: (32, -4)m/s
+          32.67m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   35130m
+Velocity: (32, -4)m/s
+          31.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   34814m
+Velocity: (31, -3.9)m/s
+          31.25m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   34505m
+Velocity: (30, -3.8)m/s
+          30.58m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   34202m
+Velocity: (30, -3.7)m/s
+          29.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   33906m
+Velocity: (29, -3.6)m/s
+          29.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   33615m
+Velocity: (29, -3.6)m/s
+          28.73m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   33331m
+Velocity: (28, -3.5)m/s
+          28.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.7e+06, 1.2e+06)m
+Height:   33052m
+Velocity: (27, -3.4)m/s
+          27.62m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   32778m
+Velocity: (27, -3.4)m/s
+          27.10m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   32510m
+Velocity: (26, -3.3)m/s
+          26.60m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   32246m
+Velocity: (26, -3.2)m/s
+          26.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   31988m
+Velocity: (25, -3.2)m/s
+          25.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   31734m
+Velocity: (25, -3.1)m/s
+          25.19m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   31484m
+Velocity: (25, -3.1)m/s
+          24.76m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   31238m
+Velocity: (24, -3)m/s
+          24.34m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   30997m
+Velocity: (24, -3)m/s
+          23.93m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   30760m
+Velocity: (23, -2.9)m/s
+          23.54m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   30526m
+Velocity: (23, -2.9)m/s
+          23.16m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   30297m
+Velocity: (23, -2.8)m/s
+          22.79m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   30070m
+Velocity: (22, -2.8)m/s
+          22.43m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   29848m
+Velocity: (22, -2.7)m/s
+          22.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   29629m
+Velocity: (22, -2.7)m/s
+          21.75m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   29413m
+Velocity: (21, -2.7)m/s
+          21.43m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   29200m
+Velocity: (21, -2.6)m/s
+          21.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   28991m
+Velocity: (21, -2.6)m/s
+          20.80m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   28784m
+Velocity: (20, -2.5)m/s
+          20.51m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   28580m
+Velocity: (20, -2.5)m/s
+          20.22m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   28380m
+Velocity: (20, -2.5)m/s
+          19.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   28182m
+Velocity: (20, -2.4)m/s
+          19.66m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   27986m
+Velocity: (19, -2.4)m/s
+          19.40m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   27794m
+Velocity: (19, -2.4)m/s
+          19.14m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   27604m
+Velocity: (19, -2.3)m/s
+          18.89m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   27416m
+Velocity: (18, -2.3)m/s
+          18.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   27231m
+Velocity: (18, -2.3)m/s
+          18.40m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   27048m
+Velocity: (18, -2.2)m/s
+          18.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   26867m
+Velocity: (18, -2.2)m/s
+          17.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   26689m
+Velocity: (18, -2.2)m/s
+          17.72m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   26513m
+Velocity: (17, -2.2)m/s
+          17.50m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   26339m
+Velocity: (17, -2.1)m/s
+          17.29m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   26167m
+Velocity: (17, -2.1)m/s
+          17.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   25997m
+Velocity: (17, -2.1)m/s
+          16.89m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   25829m
+Velocity: (17, -2.1)m/s
+          16.69m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   25663m
+Velocity: (16, -2)m/s
+          16.50m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   25499m
+Velocity: (16, -2)m/s
+          16.31m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   25337m
+Velocity: (16, -2)m/s
+          16.13m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   25177m
+Velocity: (16, -2)m/s
+          15.95m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   25018m
+Velocity: (16, -2)m/s
+          15.77m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   24861m
+Velocity: (15, -1.9)m/s
+          15.60m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   24706m
+Velocity: (15, -1.9)m/s
+          15.43m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   24552m
+Velocity: (15, -1.9)m/s
+          15.27m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   24400m
+Velocity: (15, -1.9)m/s
+          15.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   24250m
+Velocity: (15, -1.9)m/s
+          14.95m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   24101m
+Velocity: (15, -1.8)m/s
+          14.80m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   23954m
+Velocity: (15, -1.8)m/s
+          14.65m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   23808m
+Velocity: (14, -1.8)m/s
+          14.50m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   23664m
+Velocity: (14, -1.8)m/s
+          14.35m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   23521m
+Velocity: (14, -1.8)m/s
+          14.21m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   23380m
+Velocity: (14, -1.7)m/s
+          14.07m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   23240m
+Velocity: (14, -1.7)m/s
+          13.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   23101m
+Velocity: (14, -1.7)m/s
+          13.80m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   22964m
+Velocity: (14, -1.7)m/s
+          13.67m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   22828m
+Velocity: (13, -1.7)m/s
+          13.54m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   22693m
+Velocity: (13, -1.7)m/s
+          13.42m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   22559m
+Velocity: (13, -1.6)m/s
+          13.29m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   22427m
+Velocity: (13, -1.6)m/s
+          13.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   22296m
+Velocity: (13, -1.6)m/s
+          13.05m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   22166m
+Velocity: (13, -1.6)m/s
+          12.93m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   22037m
+Velocity: (13, -1.6)m/s
+          12.82m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   21910m
+Velocity: (13, -1.6)m/s
+          12.70m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   21783m
+Velocity: (12, -1.6)m/s
+          12.59m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   21658m
+Velocity: (12, -1.5)m/s
+          12.48m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   21534m
+Velocity: (12, -1.5)m/s
+          12.38m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   21410m
+Velocity: (12, -1.5)m/s
+          12.27m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   21288m
+Velocity: (12, -1.5)m/s
+          12.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   21167m
+Velocity: (12, -1.5)m/s
+          12.06m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   21047m
+Velocity: (12, -1.5)m/s
+          11.96m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20928m
+Velocity: (12, -1.5)m/s
+          11.87m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20810m
+Velocity: (12, -1.5)m/s
+          11.77m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20692m
+Velocity: (12, -1.4)m/s
+          11.67m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20576m
+Velocity: (11, -1.4)m/s
+          11.58m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20461m
+Velocity: (11, -1.4)m/s
+          11.49m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20346m
+Velocity: (11, -1.4)m/s
+          11.39m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20233m
+Velocity: (11, -1.4)m/s
+          11.31m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20120m
+Velocity: (11, -1.4)m/s
+          11.22m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   20009m
+Velocity: (11, -1.4)m/s
+          11.13m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19898m
+Velocity: (11, -1.4)m/s
+          11.04m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19788m
+Velocity: (11, -1.4)m/s
+          10.96m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19678m
+Velocity: (11, -1.3)m/s
+          10.88m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19570m
+Velocity: (11, -1.3)m/s
+          10.80m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19463m
+Velocity: (11, -1.3)m/s
+          10.72m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19356m
+Velocity: (11, -1.3)m/s
+          10.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19250m
+Velocity: (10, -1.3)m/s
+          10.56m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19145m
+Velocity: (10, -1.3)m/s
+          10.48m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   19040m
+Velocity: (10, -1.3)m/s
+          10.40m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18937m
+Velocity: (10, -1.3)m/s
+          10.33m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18834m
+Velocity: (10, -1.3)m/s
+          10.26m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18731m
+Velocity: (10, -1.3)m/s
+          10.18m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18630m
+Velocity: (10, -1.3)m/s
+          10.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18529m
+Velocity: (10, -1.2)m/s
+          10.04m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18429m
+Velocity: (9.9, -1.2)m/s
+          9.97m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18330m
+Velocity: (9.8, -1.2)m/s
+          9.90m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18231m
+Velocity: (9.8, -1.2)m/s
+          9.84m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18133m
+Velocity: (9.7, -1.2)m/s
+          9.77m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   18036m
+Velocity: (9.6, -1.2)m/s
+          9.70m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17939m
+Velocity: (9.6, -1.2)m/s
+          9.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17843m
+Velocity: (9.5, -1.2)m/s
+          9.57m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17748m
+Velocity: (9.4, -1.2)m/s
+          9.51m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17653m
+Velocity: (9.4, -1.2)m/s
+          9.45m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17559m
+Velocity: (9.3, -1.2)m/s
+          9.39m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17465m
+Velocity: (9.3, -1.2)m/s
+          9.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17372m
+Velocity: (9.2, -1.1)m/s
+          9.26m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17280m
+Velocity: (9.1, -1.1)m/s
+          9.21m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17188m
+Velocity: (9.1, -1.1)m/s
+          9.15m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17097m
+Velocity: (9, -1.1)m/s
+          9.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   17006m
+Velocity: (9, -1.1)m/s
+          9.03m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16916m
+Velocity: (8.9, -1.1)m/s
+          8.98m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16827m
+Velocity: (8.9, -1.1)m/s
+          8.92m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16738m
+Velocity: (8.8, -1.1)m/s
+          8.86m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16649m
+Velocity: (8.7, -1.1)m/s
+          8.81m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16562m
+Velocity: (8.7, -1.1)m/s
+          8.76m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16474m
+Velocity: (8.6, -1.1)m/s
+          8.70m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16387m
+Velocity: (8.6, -1.1)m/s
+          8.65m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16301m
+Velocity: (8.5, -1.1)m/s
+          8.60m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16215m
+Velocity: (8.5, -1.1)m/s
+          8.55m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16130m
+Velocity: (8.4, -1.1)m/s
+          8.50m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   16046m
+Velocity: (8.4, -1)m/s
+          8.45m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15961m
+Velocity: (8.3, -1)m/s
+          8.40m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15878m
+Velocity: (8.3, -1)m/s
+          8.35m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15794m
+Velocity: (8.2, -1)m/s
+          8.30m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15711m
+Velocity: (8.2, -1)m/s
+          8.25m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15629m
+Velocity: (8.1, -1)m/s
+          8.21m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15547m
+Velocity: (8.1, -1)m/s
+          8.16m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15466m
+Velocity: (8.1, -1)m/s
+          8.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15385m
+Velocity: (8, -1)m/s
+          8.07m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15305m
+Velocity: (8, -0.99)m/s
+          8.02m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15225m
+Velocity: (7.9, -0.99)m/s
+          7.98m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15145m
+Velocity: (7.9, -0.98)m/s
+          7.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   15066m
+Velocity: (7.8, -0.98)m/s
+          7.89m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14987m
+Velocity: (7.8, -0.97)m/s
+          7.85m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14909m
+Velocity: (7.7, -0.97)m/s
+          7.81m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14831m
+Velocity: (7.7, -0.96)m/s
+          7.76m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14754m
+Velocity: (7.7, -0.96)m/s
+          7.72m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14677m
+Velocity: (7.6, -0.95)m/s
+          7.68m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14600m
+Velocity: (7.6, -0.95)m/s
+          7.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14524m
+Velocity: (7.5, -0.94)m/s
+          7.60m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14448m
+Velocity: (7.5, -0.94)m/s
+          7.56m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14373m
+Velocity: (7.5, -0.93)m/s
+          7.52m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14298m
+Velocity: (7.4, -0.93)m/s
+          7.48m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14223m
+Velocity: (7.4, -0.92)m/s
+          7.44m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14149m
+Velocity: (7.3, -0.92)m/s
+          7.40m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14075m
+Velocity: (7.3, -0.91)m/s
+          7.37m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   14001m
+Velocity: (7.3, -0.91)m/s
+          7.33m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13928m
+Velocity: (7.2, -0.9)m/s
+          7.29m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13856m
+Velocity: (7.2, -0.9)m/s
+          7.25m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13783m
+Velocity: (7.2, -0.89)m/s
+          7.22m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13711m
+Velocity: (7.1, -0.89)m/s
+          7.18m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13640m
+Velocity: (7.1, -0.88)m/s
+          7.15m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13568m
+Velocity: (7.1, -0.88)m/s
+          7.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13497m
+Velocity: (7, -0.88)m/s
+          7.08m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13427m
+Velocity: (7, -0.87)m/s
+          7.04m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13357m
+Velocity: (7, -0.87)m/s
+          7.01m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13287m
+Velocity: (6.9, -0.86)m/s
+          6.97m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13217m
+Velocity: (6.9, -0.86)m/s
+          6.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13148m
+Velocity: (6.9, -0.85)m/s
+          6.91m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13079m
+Velocity: (6.8, -0.85)m/s
+          6.87m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   13010m
+Velocity: (6.8, -0.85)m/s
+          6.84m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12942m
+Velocity: (6.8, -0.84)m/s
+          6.81m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12874m
+Velocity: (6.7, -0.84)m/s
+          6.78m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12807m
+Velocity: (6.7, -0.83)m/s
+          6.74m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12739m
+Velocity: (6.7, -0.83)m/s
+          6.71m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12672m
+Velocity: (6.6, -0.83)m/s
+          6.68m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12606m
+Velocity: (6.6, -0.82)m/s
+          6.65m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12539m
+Velocity: (6.6, -0.82)m/s
+          6.62m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12473m
+Velocity: (6.5, -0.82)m/s
+          6.59m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12408m
+Velocity: (6.5, -0.81)m/s
+          6.56m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12342m
+Velocity: (6.5, -0.81)m/s
+          6.53m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12277m
+Velocity: (6.5, -0.8)m/s
+          6.50m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12212m
+Velocity: (6.4, -0.8)m/s
+          6.47m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12148m
+Velocity: (6.4, -0.8)m/s
+          6.44m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12083m
+Velocity: (6.4, -0.79)m/s
+          6.41m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   12019m
+Velocity: (6.3, -0.79)m/s
+          6.38m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11956m
+Velocity: (6.3, -0.79)m/s
+          6.36m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11892m
+Velocity: (6.3, -0.78)m/s
+          6.33m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11829m
+Velocity: (6.3, -0.78)m/s
+          6.30m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11766m
+Velocity: (6.2, -0.78)m/s
+          6.27m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11704m
+Velocity: (6.2, -0.77)m/s
+          6.25m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11641m
+Velocity: (6.2, -0.77)m/s
+          6.22m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11579m
+Velocity: (6.1, -0.77)m/s
+          6.19m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11517m
+Velocity: (6.1, -0.76)m/s
+          6.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11456m
+Velocity: (6.1, -0.76)m/s
+          6.14m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11395m
+Velocity: (6.1, -0.76)m/s
+          6.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11334m
+Velocity: (6, -0.75)m/s
+          6.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11273m
+Velocity: (6, -0.75)m/s
+          6.06m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11212m
+Velocity: (6, -0.75)m/s
+          6.04m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11152m
+Velocity: (6, -0.74)m/s
+          6.01m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11092m
+Velocity: (5.9, -0.74)m/s
+          5.99m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   11032m
+Velocity: (5.9, -0.74)m/s
+          5.96m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10973m
+Velocity: (5.9, -0.73)m/s
+          5.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10914m
+Velocity: (5.9, -0.73)m/s
+          5.91m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10855m
+Velocity: (5.8, -0.73)m/s
+          5.89m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10796m
+Velocity: (5.8, -0.73)m/s
+          5.86m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10737m
+Velocity: (5.8, -0.72)m/s
+          5.84m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10679m
+Velocity: (5.8, -0.72)m/s
+          5.82m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10621m
+Velocity: (5.7, -0.72)m/s
+          5.79m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10563m
+Velocity: (5.7, -0.71)m/s
+          5.77m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10506m
+Velocity: (5.7, -0.71)m/s
+          5.75m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10448m
+Velocity: (5.7, -0.71)m/s
+          5.72m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10391m
+Velocity: (5.7, -0.71)m/s
+          5.70m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10334m
+Velocity: (5.6, -0.7)m/s
+          5.68m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10278m
+Velocity: (5.6, -0.7)m/s
+          5.66m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10221m
+Velocity: (5.6, -0.7)m/s
+          5.63m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10165m
+Velocity: (5.6, -0.69)m/s
+          5.61m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10109m
+Velocity: (5.5, -0.69)m/s
+          5.59m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   10053m
+Velocity: (5.5, -0.69)m/s
+          5.57m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9998m
+Velocity: (5.5, -0.69)m/s
+          5.55m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9942m
+Velocity: (5.5, -0.68)m/s
+          5.53m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9887m
+Velocity: (5.5, -0.68)m/s
+          5.50m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9832m
+Velocity: (5.4, -0.68)m/s
+          5.48m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9777m
+Velocity: (5.4, -0.68)m/s
+          5.46m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9723m
+Velocity: (5.4, -0.67)m/s
+          5.44m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9669m
+Velocity: (5.4, -0.67)m/s
+          5.42m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9614m
+Velocity: (5.4, -0.67)m/s
+          5.40m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9561m
+Velocity: (5.3, -0.67)m/s
+          5.38m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9507m
+Velocity: (5.3, -0.66)m/s
+          5.36m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9453m
+Velocity: (5.3, -0.66)m/s
+          5.34m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9400m
+Velocity: (5.3, -0.66)m/s
+          5.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9347m
+Velocity: (5.3, -0.66)m/s
+          5.30m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9294m
+Velocity: (5.2, -0.65)m/s
+          5.28m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9241m
+Velocity: (5.2, -0.65)m/s
+          5.26m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9189m
+Velocity: (5.2, -0.65)m/s
+          5.24m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9136m
+Velocity: (5.2, -0.65)m/s
+          5.22m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9084m
+Velocity: (5.2, -0.64)m/s
+          5.21m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9032m
+Velocity: (5.1, -0.64)m/s
+          5.19m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8981m
+Velocity: (5.1, -0.64)m/s
+          5.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8929m
+Velocity: (5.1, -0.64)m/s
+          5.15m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8878m
+Velocity: (5.1, -0.64)m/s
+          5.13m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8826m
+Velocity: (5.1, -0.63)m/s
+          5.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8775m
+Velocity: (5.1, -0.63)m/s
+          5.10m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8724m
+Velocity: (5, -0.63)m/s
+          5.08m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8674m
+Velocity: (5, -0.63)m/s
+          5.06m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8623m
+Velocity: (5, -0.62)m/s
+          5.04m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8573m
+Velocity: (5, -0.62)m/s
+          5.02m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8523m
+Velocity: (5, -0.62)m/s
+          5.01m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8473m
+Velocity: (5, -0.62)m/s
+          4.99m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8423m
+Velocity: (4.9, -0.62)m/s
+          4.97m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8373m
+Velocity: (4.9, -0.61)m/s
+          4.95m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8324m
+Velocity: (4.9, -0.61)m/s
+          4.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8275m
+Velocity: (4.9, -0.61)m/s
+          4.92m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8225m
+Velocity: (4.9, -0.61)m/s
+          4.90m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8176m
+Velocity: (4.8, -0.6)m/s
+          4.89m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8128m
+Velocity: (4.8, -0.6)m/s
+          4.87m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8079m
+Velocity: (4.8, -0.6)m/s
+          4.85m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   8031m
+Velocity: (4.8, -0.6)m/s
+          4.84m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7982m
+Velocity: (4.8, -0.6)m/s
+          4.82m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7934m
+Velocity: (4.8, -0.59)m/s
+          4.81m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7886m
+Velocity: (4.8, -0.59)m/s
+          4.79m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7838m
+Velocity: (4.7, -0.59)m/s
+          4.77m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7791m
+Velocity: (4.7, -0.59)m/s
+          4.76m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7743m
+Velocity: (4.7, -0.59)m/s
+          4.74m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7696m
+Velocity: (4.7, -0.58)m/s
+          4.73m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7649m
+Velocity: (4.7, -0.58)m/s
+          4.71m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7602m
+Velocity: (4.7, -0.58)m/s
+          4.70m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7555m
+Velocity: (4.6, -0.58)m/s
+          4.68m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7508m
+Velocity: (4.6, -0.58)m/s
+          4.67m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7461m
+Velocity: (4.6, -0.58)m/s
+          4.65m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7415m
+Velocity: (4.6, -0.57)m/s
+          4.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7369m
+Velocity: (4.6, -0.57)m/s
+          4.62m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7323m
+Velocity: (4.6, -0.57)m/s
+          4.61m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7277m
+Velocity: (4.6, -0.57)m/s
+          4.59m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7231m
+Velocity: (4.5, -0.57)m/s
+          4.58m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7185m
+Velocity: (4.5, -0.56)m/s
+          4.56m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7140m
+Velocity: (4.5, -0.56)m/s
+          4.55m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7094m
+Velocity: (4.5, -0.56)m/s
+          4.53m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7049m
+Velocity: (4.5, -0.56)m/s
+          4.52m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   7004m
+Velocity: (4.5, -0.56)m/s
+          4.50m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6959m
+Velocity: (4.5, -0.56)m/s
+          4.49m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6914m
+Velocity: (4.4, -0.55)m/s
+          4.48m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6869m
+Velocity: (4.4, -0.55)m/s
+          4.46m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6825m
+Velocity: (4.4, -0.55)m/s
+          4.45m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6780m
+Velocity: (4.4, -0.55)m/s
+          4.44m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6736m
+Velocity: (4.4, -0.55)m/s
+          4.42m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6692m
+Velocity: (4.4, -0.55)m/s
+          4.41m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6648m
+Velocity: (4.4, -0.54)m/s
+          4.39m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6604m
+Velocity: (4.3, -0.54)m/s
+          4.38m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6560m
+Velocity: (4.3, -0.54)m/s
+          4.37m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6517m
+Velocity: (4.3, -0.54)m/s
+          4.35m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6473m
+Velocity: (4.3, -0.54)m/s
+          4.34m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6430m
+Velocity: (4.3, -0.54)m/s
+          4.33m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6387m
+Velocity: (4.3, -0.53)m/s
+          4.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6343m
+Velocity: (4.3, -0.53)m/s
+          4.30m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6301m
+Velocity: (4.3, -0.53)m/s
+          4.29m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6258m
+Velocity: (4.2, -0.53)m/s
+          4.28m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6215m
+Velocity: (4.2, -0.53)m/s
+          4.26m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6172m
+Velocity: (4.2, -0.53)m/s
+          4.25m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6130m
+Velocity: (4.2, -0.52)m/s
+          4.24m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6088m
+Velocity: (4.2, -0.52)m/s
+          4.23m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6045m
+Velocity: (4.2, -0.52)m/s
+          4.21m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   6003m
+Velocity: (4.2, -0.52)m/s
+          4.20m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5961m
+Velocity: (4.2, -0.52)m/s
+          4.19m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5920m
+Velocity: (4.1, -0.52)m/s
+          4.18m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5878m
+Velocity: (4.1, -0.52)m/s
+          4.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5836m
+Velocity: (4.1, -0.51)m/s
+          4.15m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5795m
+Velocity: (4.1, -0.51)m/s
+          4.14m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5753m
+Velocity: (4.1, -0.51)m/s
+          4.13m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5712m
+Velocity: (4.1, -0.51)m/s
+          4.12m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5671m
+Velocity: (4.1, -0.51)m/s
+          4.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5630m
+Velocity: (4.1, -0.51)m/s
+          4.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5589m
+Velocity: (4.1, -0.51)m/s
+          4.08m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5548m
+Velocity: (4, -0.5)m/s
+          4.07m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5508m
+Velocity: (4, -0.5)m/s
+          4.06m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5467m
+Velocity: (4, -0.5)m/s
+          4.05m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5427m
+Velocity: (4, -0.5)m/s
+          4.04m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5386m
+Velocity: (4, -0.5)m/s
+          4.03m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5346m
+Velocity: (4, -0.5)m/s
+          4.01m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5306m
+Velocity: (4, -0.5)m/s
+          4.00m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5266m
+Velocity: (4, -0.49)m/s
+          3.99m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5226m
+Velocity: (4, -0.49)m/s
+          3.98m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5187m
+Velocity: (3.9, -0.49)m/s
+          3.97m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5147m
+Velocity: (3.9, -0.49)m/s
+          3.96m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5107m
+Velocity: (3.9, -0.49)m/s
+          3.95m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5068m
+Velocity: (3.9, -0.49)m/s
+          3.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   5029m
+Velocity: (3.9, -0.49)m/s
+          3.93m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4989m
+Velocity: (3.9, -0.48)m/s
+          3.92m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4950m
+Velocity: (3.9, -0.48)m/s
+          3.91m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4911m
+Velocity: (3.9, -0.48)m/s
+          3.89m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4872m
+Velocity: (3.9, -0.48)m/s
+          3.88m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4834m
+Velocity: (3.8, -0.48)m/s
+          3.87m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4795m
+Velocity: (3.8, -0.48)m/s
+          3.86m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4756m
+Velocity: (3.8, -0.48)m/s
+          3.85m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4718m
+Velocity: (3.8, -0.48)m/s
+          3.84m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4680m
+Velocity: (3.8, -0.47)m/s
+          3.83m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4641m
+Velocity: (3.8, -0.47)m/s
+          3.82m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4603m
+Velocity: (3.8, -0.47)m/s
+          3.81m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4565m
+Velocity: (3.8, -0.47)m/s
+          3.80m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4527m
+Velocity: (3.8, -0.47)m/s
+          3.79m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4489m
+Velocity: (3.8, -0.47)m/s
+          3.78m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4451m
+Velocity: (3.7, -0.47)m/s
+          3.77m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4414m
+Velocity: (3.7, -0.47)m/s
+          3.76m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4376m
+Velocity: (3.7, -0.46)m/s
+          3.75m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4339m
+Velocity: (3.7, -0.46)m/s
+          3.74m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4301m
+Velocity: (3.7, -0.46)m/s
+          3.73m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4264m
+Velocity: (3.7, -0.46)m/s
+          3.72m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4227m
+Velocity: (3.7, -0.46)m/s
+          3.71m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4190m
+Velocity: (3.7, -0.46)m/s
+          3.70m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4153m
+Velocity: (3.7, -0.46)m/s
+          3.69m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4116m
+Velocity: (3.7, -0.46)m/s
+          3.69m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4079m
+Velocity: (3.6, -0.45)m/s
+          3.68m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4042m
+Velocity: (3.6, -0.45)m/s
+          3.67m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   4006m
+Velocity: (3.6, -0.45)m/s
+          3.66m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3969m
+Velocity: (3.6, -0.45)m/s
+          3.65m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3933m
+Velocity: (3.6, -0.45)m/s
+          3.64m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3896m
+Velocity: (3.6, -0.45)m/s
+          3.63m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3860m
+Velocity: (3.6, -0.45)m/s
+          3.62m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3824m
+Velocity: (3.6, -0.45)m/s
+          3.61m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3788m
+Velocity: (3.6, -0.45)m/s
+          3.60m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3752m
+Velocity: (3.6, -0.44)m/s
+          3.59m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3716m
+Velocity: (3.6, -0.44)m/s
+          3.58m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3680m
+Velocity: (3.5, -0.44)m/s
+          3.58m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3645m
+Velocity: (3.5, -0.44)m/s
+          3.57m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3609m
+Velocity: (3.5, -0.44)m/s
+          3.56m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3573m
+Velocity: (3.5, -0.44)m/s
+          3.55m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3538m
+Velocity: (3.5, -0.44)m/s
+          3.54m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3503m
+Velocity: (3.5, -0.44)m/s
+          3.53m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3467m
+Velocity: (3.5, -0.44)m/s
+          3.52m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3432m
+Velocity: (3.5, -0.43)m/s
+          3.51m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3397m
+Velocity: (3.5, -0.43)m/s
+          3.51m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3362m
+Velocity: (3.5, -0.43)m/s
+          3.50m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3327m
+Velocity: (3.5, -0.43)m/s
+          3.49m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3292m
+Velocity: (3.5, -0.43)m/s
+          3.48m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3258m
+Velocity: (3.4, -0.43)m/s
+          3.47m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3223m
+Velocity: (3.4, -0.43)m/s
+          3.46m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3188m
+Velocity: (3.4, -0.43)m/s
+          3.45m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3154m
+Velocity: (3.4, -0.43)m/s
+          3.45m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3119m
+Velocity: (3.4, -0.43)m/s
+          3.44m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3085m
+Velocity: (3.4, -0.42)m/s
+          3.43m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3051m
+Velocity: (3.4, -0.42)m/s
+          3.42m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   3017m
+Velocity: (3.4, -0.42)m/s
+          3.41m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2982m
+Velocity: (3.4, -0.42)m/s
+          3.41m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2948m
+Velocity: (3.4, -0.42)m/s
+          3.40m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2915m
+Velocity: (3.4, -0.42)m/s
+          3.39m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2881m
+Velocity: (3.4, -0.42)m/s
+          3.38m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2847m
+Velocity: (3.3, -0.42)m/s
+          3.37m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2813m
+Velocity: (3.3, -0.42)m/s
+          3.37m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2780m
+Velocity: (3.3, -0.42)m/s
+          3.36m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2746m
+Velocity: (3.3, -0.41)m/s
+          3.35m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2713m
+Velocity: (3.3, -0.41)m/s
+          3.34m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2679m
+Velocity: (3.3, -0.41)m/s
+          3.33m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2646m
+Velocity: (3.3, -0.41)m/s
+          3.33m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2613m
+Velocity: (3.3, -0.41)m/s
+          3.32m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2579m
+Velocity: (3.3, -0.41)m/s
+          3.31m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2546m
+Velocity: (3.3, -0.41)m/s
+          3.30m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2513m
+Velocity: (3.3, -0.41)m/s
+          3.30m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2480m
+Velocity: (3.3, -0.41)m/s
+          3.29m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2448m
+Velocity: (3.3, -0.41)m/s
+          3.28m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2415m
+Velocity: (3.2, -0.41)m/s
+          3.27m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2382m
+Velocity: (3.2, -0.4)m/s
+          3.27m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2350m
+Velocity: (3.2, -0.4)m/s
+          3.26m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2317m
+Velocity: (3.2, -0.4)m/s
+          3.25m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2284m
+Velocity: (3.2, -0.4)m/s
+          3.24m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2252m
+Velocity: (3.2, -0.4)m/s
+          3.24m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2220m
+Velocity: (3.2, -0.4)m/s
+          3.23m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2187m
+Velocity: (3.2, -0.4)m/s
+          3.22m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2155m
+Velocity: (3.2, -0.4)m/s
+          3.22m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2123m
+Velocity: (3.2, -0.4)m/s
+          3.21m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2091m
+Velocity: (3.2, -0.4)m/s
+          3.20m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2059m
+Velocity: (3.2, -0.4)m/s
+          3.19m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   2027m
+Velocity: (3.2, -0.39)m/s
+          3.19m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1995m
+Velocity: (3.2, -0.39)m/s
+          3.18m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1964m
+Velocity: (3.1, -0.39)m/s
+          3.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1932m
+Velocity: (3.1, -0.39)m/s
+          3.17m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1900m
+Velocity: (3.1, -0.39)m/s
+          3.16m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1869m
+Velocity: (3.1, -0.39)m/s
+          3.15m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1837m
+Velocity: (3.1, -0.39)m/s
+          3.15m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1806m
+Velocity: (3.1, -0.39)m/s
+          3.14m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1775m
+Velocity: (3.1, -0.39)m/s
+          3.13m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1743m
+Velocity: (3.1, -0.39)m/s
+          3.12m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1712m
+Velocity: (3.1, -0.39)m/s
+          3.12m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1681m
+Velocity: (3.1, -0.39)m/s
+          3.11m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1650m
+Velocity: (3.1, -0.38)m/s
+          3.10m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1619m
+Velocity: (3.1, -0.38)m/s
+          3.10m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1588m
+Velocity: (3.1, -0.38)m/s
+          3.09m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1557m
+Velocity: (3.1, -0.38)m/s
+          3.08m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1526m
+Velocity: (3.1, -0.38)m/s
+          3.08m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1495m
+Velocity: (3, -0.38)m/s
+          3.07m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1465m
+Velocity: (3, -0.38)m/s
+          3.06m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1434m
+Velocity: (3, -0.38)m/s
+          3.06m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1404m
+Velocity: (3, -0.38)m/s
+          3.05m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1373m
+Velocity: (3, -0.38)m/s
+          3.05m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1343m
+Velocity: (3, -0.38)m/s
+          3.04m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1312m
+Velocity: (3, -0.38)m/s
+          3.03m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1282m
+Velocity: (3, -0.37)m/s
+          3.03m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1252m
+Velocity: (3, -0.37)m/s
+          3.02m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1222m
+Velocity: (3, -0.37)m/s
+          3.01m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1192m
+Velocity: (3, -0.37)m/s
+          3.01m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1161m
+Velocity: (3, -0.37)m/s
+          3.00m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1132m
+Velocity: (3, -0.37)m/s
+          2.99m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1102m
+Velocity: (3, -0.37)m/s
+          2.99m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1072m
+Velocity: (3, -0.37)m/s
+          2.98m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1042m
+Velocity: (3, -0.37)m/s
+          2.98m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   1012m
+Velocity: (2.9, -0.37)m/s
+          2.97m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   983m
+Velocity: (2.9, -0.37)m/s
+          2.96m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   953m
+Velocity: (2.9, -0.37)m/s
+          2.96m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   923m
+Velocity: (2.9, -0.37)m/s
+          2.95m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   894m
+Velocity: (2.9, -0.36)m/s
+          2.95m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   864m
+Velocity: (2.9, -0.36)m/s
+          2.94m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   835m
+Velocity: (2.9, -0.36)m/s
+          2.93m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   806m
+Velocity: (2.9, -0.36)m/s
+          2.93m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   777m
+Velocity: (2.9, -0.36)m/s
+          2.92m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   747m
+Velocity: (2.9, -0.36)m/s
+          2.92m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   718m
+Velocity: (2.9, -0.36)m/s
+          2.91m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   689m
+Velocity: (2.9, -0.36)m/s
+          2.90m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   660m
+Velocity: (2.9, -0.36)m/s
+          2.90m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   631m
+Velocity: (2.9, -0.36)m/s
+          2.89m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   602m
+Velocity: (2.9, -0.36)m/s
+          2.89m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   574m
+Velocity: (2.9, -0.36)m/s
+          2.88m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   545m
+Velocity: (2.9, -0.36)m/s
+          2.87m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   516m
+Velocity: (2.8, -0.36)m/s
+          2.87m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   487m
+Velocity: (2.8, -0.35)m/s
+          2.86m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   459m
+Velocity: (2.8, -0.35)m/s
+          2.86m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   430m
+Velocity: (2.8, -0.35)m/s
+          2.85m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   402m
+Velocity: (2.8, -0.35)m/s
+          2.85m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   373m
+Velocity: (2.8, -0.35)m/s
+          2.84m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   345m
+Velocity: (2.8, -0.35)m/s
+          2.84m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   317m
+Velocity: (2.8, -0.35)m/s
+          2.83m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   288m
+Velocity: (2.8, -0.35)m/s
+          2.82m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   260m
+Velocity: (2.8, -0.35)m/s
+          2.82m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   232m
+Velocity: (2.8, -0.35)m/s
+          2.81m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   204m
+Velocity: (2.8, -0.35)m/s
+          2.81m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   176m
+Velocity: (2.8, -0.35)m/s
+          2.80m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   148m
+Velocity: (2.8, -0.35)m/s
+          2.80m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   120m
+Velocity: (2.8, -0.35)m/s
+          2.79m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   92m
+Velocity: (2.8, -0.34)m/s
+          2.79m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   64m
+Velocity: (2.8, -0.34)m/s
+          2.78m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   36m
+Velocity: (2.8, -0.34)m/s
+          2.77m/s
+Finished running 100000 time steps.
+
+Position: (-9.6e+06, 1.2e+06)m
+Height:   9m
+Velocity: (2.7, -0.34)m/s
+          2.77m/s
+The eagle has landed
+With radial velocity: -2.767990242248506

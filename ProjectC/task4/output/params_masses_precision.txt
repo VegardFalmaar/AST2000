@@ -1,0 +1,23 @@
+By-eye limits for the parameters
+Star 4:
+Minimum squared error: 68124
+t_0 : 1384.62 days
+P   : 3846.15 days
+v_r : 37.31m/s
+mass: 5.53E+27kg = 2.915 Jupiter masses
+
+Automatically selected limits for the parameters
+Star 4:
+Minimum squared error: 67870
+t_0 : 5236.66 days
+P   : 3845.32 days
+v_r : 37.18m/s
+mass: 5.51E+27kg = 2.905 Jupiter masses
+
+Star 5:
+Minimum squared error: 72098
+t_0 : 1991.03 days
+P   : 4105.65 days
+v_r : 50.76m/s
+mass: 9.59E+27kg = 5.054 Jupiter masses
+

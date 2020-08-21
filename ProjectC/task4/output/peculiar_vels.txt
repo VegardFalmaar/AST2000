@@ -1,0 +1,6 @@
+Peculiar velocities:
+Star 1: -354km/s
+Star 2:  158km/s
+Star 3: -252km/s
+Star 4:  444km/s
+Star 5: -237km/s

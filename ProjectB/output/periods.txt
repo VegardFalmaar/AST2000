@@ -1,0 +1,17 @@
+\begin{table}[p]
+\begin{adjustbox}{width=1\textwidth}
+\begin{tabular}{||c | c||}
+\hline
+Planet & Period, [yr]    \\ \hline
+0 & 0.61    \\ \hline
+1 & 1.00    \\ \hline
+2 & 14.54    \\ \hline
+3 & 8.72    \\ \hline
+4 & 1.47    \\ \hline
+5 & 22.11    \\ \hline
+6 & 0.32    \\ \hline
+\end{tabular}
+\end{adjustbox}
+\caption{}
+\label{}
+\end{table}

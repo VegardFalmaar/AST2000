@@ -1,0 +1,33 @@
+Home planet mass:        1.389e+25 kg
+Home planet radius:      8375940 m/s
+Home escape velocity:    14876 m/s
+Earth's escape velocity: 11186 m/s
+Number of planets:       7
+
+Number of particles: 100000
+
+Kinetic energy:
+Computed mean:      2.07298e-19
+Analytical mean:    2.0715e-19
+Relative error:     0.07%
+
+Mean velocity:
+Computed mean:      10258.07
+Analytical mean:    10249.67
+Relative error:     0.08%
+
+Pressure test (closed box):
+Hits:               260799
+Escaped:            82
+Computed P:         13995.02
+Analytical P:       13810.00
+Relative error:     1.34%
+
+Rocket simulation:
+Hits:               217706
+Escaped:            76666
+Momentum:           2.07807e-18
+Speed gain:         2.07807e-21
+Number of boxes:    5.966e+12
+Fuel loss:          1837.16kg
+Analytical fuel loss:2513.86kg
